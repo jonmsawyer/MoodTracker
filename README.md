@@ -25,3 +25,5 @@ Dependencies:
  position of undergoing treatment for bipolar disorder and is designed to be free and customizeable to those individuals. Thank you.
  
 '''
+
+![survey_pic](https://user-images.githubusercontent.com/61987008/76245761-d58de100-6212-11ea-9282-bad42f436469.png)
