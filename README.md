@@ -3,6 +3,7 @@
 
 '''
 Dependencies:
+
  1.Python 3.6 or above I am using 3.6.10
  2.PySimpleGUI
  3.Matplotlib
