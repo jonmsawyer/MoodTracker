@@ -27,3 +27,5 @@ Dependencies:
 '''
 
 ![survey_pic](https://user-images.githubusercontent.com/61987008/76245761-d58de100-6212-11ea-9282-bad42f436469.png)
+
+![graph_example](https://user-images.githubusercontent.com/61987008/76245846-040bbc00-6213-11ea-9992-163b5bac5831.png)
